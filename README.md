@@ -27,7 +27,7 @@ Bagels: a deductive logic game, you must guess a secret three-digit number based
 “Pico” when your guess has a correct digit in the wrong place, “Fermi” when your guess has a correct digit in the correct place, and “Bagels” if your guess has no correct digits.
 
 The Birthday Paradox: also called the 
-Birthday Problem, is the surprisingly high probability that two people will have the same birthday even in a small group of people. This program performs several probability experiments to determine the percentages for groups of different sizes. We call these types of experiments, in which we conduct multiple random trials to understand the likely outcomes, Monte Carlo experiments.
+Birthday Problem, is the surprisingly high probability that two people will have the same birthday even in a small group of people. This program performs several probability experiments to determine the percentages for groups of different sizes. We call these types of experiments, in which we conduct multiple random trials to understand the likely outcomes, Monte Carlo experiments.
 
 
 Additional mini-projects will be added to the repository in the future.
